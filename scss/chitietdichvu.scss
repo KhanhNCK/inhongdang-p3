@@ -174,7 +174,7 @@ img {
 
 .menu-doc{
   .collapsible {
-    background-color:#e6e7e7;
+    background:url(../images/pattern.png);
     color: black;
     cursor: pointer;
     padding: 18px;
@@ -190,13 +190,13 @@ img {
   
   .active, .collapsible:hover {
     background-color: #0aa4ab;
+
   }
   
   .content {
     display: none;
     overflow: hidden;
     background-color: #f1f1f1;
-
     a{
       padding: 20px;
       color: black;
@@ -239,3 +239,4 @@ img {
     background-color: aqua;
   }
 }
+
